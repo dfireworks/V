@@ -1,4 +1,5 @@
-# 使用Railway//(https://railway.app)//部署Xray高性能代理服务，通过ws传输的 (vmess、vless、trojan shadowsocks、socks)等协议
+# 使用Railway部署Xray高性能代理服务，通过ws传输的 (vmess、vless、trojan shadowsocks、socks)等协议
+* **部署网址`railway.app`**  
 
 > 提醒： 滥用可能导致账户被BAN！！！ 
 
